@@ -1,8 +1,11 @@
 {
   "name": "unfated-nuxt-lodash",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Nuxt Lodash Module",
-  "repository": "unfated/nuxt-lodash",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Shar0w/unfated-nuxt-lodash"
+  },
   "license": "MIT",
   "type": "module",
   "exports": {
