@@ -9,11 +9,6 @@ Find and replace all on all files (CMD+SHIFT+F):
 
 # Unfated Lodash For Nuxt
 
-[![npm version][npm-version-src]][npm-version-href]
-[![npm downloads][npm-downloads-src]][npm-downloads-href]
-[![License][license-src]][license-href]
-[![Nuxt][nuxt-src]][nuxt-href]
-
 A different version of [Nuxt Lodash](https://www.npmjs.com/package/nuxt-lodash) to include only desired lodash functions
 
 ## Quick Setup
